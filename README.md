@@ -26,8 +26,3 @@
 
 ##
 
-uses: Platane/snk@v2
-  with:
-    # github user name to read the contribution graph from (**required**)
-    # using action context var `github.MAdusalves` or specified user
-    github_user_name: ${{ github.Madusalves }}
