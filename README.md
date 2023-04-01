@@ -25,4 +25,4 @@
 
 
 ##
-![Snake animation](http://github.com/rafaballerini/Madusalves/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](http://github.com/Madusalves/Madusalves/blob/output/github-contribution-grid-snake.svg)
