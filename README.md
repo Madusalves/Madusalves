@@ -4,7 +4,7 @@ brasiliangirl:brazil::brazil:
 
 ##
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Madusalves&show_icons=true&theme=gruvbox)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Madusalves&show_icons=true&theme=transparent)
 
 ##
 
@@ -34,4 +34,4 @@ brasiliangirl:brazil::brazil:
 
 ## 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Madusalves&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Madusalves&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
