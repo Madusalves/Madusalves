@@ -1,6 +1,6 @@
 
-## My name is Maria Eduarda	:alien: :sunglasses:
-brasiliangirl:brazil::brazil:
+##Maria Eduarda	:alien: :sunglasses:
+
 
 ##
 
